@@ -18,6 +18,21 @@ a {
 body {
 	color: white;
 }
+/* .dwn {
+	display: flex;
+	margin: 0px auto;
+} */
+/* .fa fa-fa-angle-down {
+	align-content: center;
+	align-items: center;
+	height: 50px;
+	width: max-content;
+    border-radius: 20px; 
+	border: #40649a;
+	border-width: 20px;
+	color: #40649a;
+	background-color: #40649a;
+} */
 h1 {
 	display: block;
 	justify-content: start;
@@ -40,14 +55,15 @@ h1 {
 	display: flex;
 	justify-content: center;
 }
-.fa fa-angle-down:hover {
+/* .fa fa-angle-down:hover {
 	box-shadow: inset;
 	box-shadow: #40649a;
 	opacity: 1;
 	transition: ease-in-out;
+
 	transition-duration: 0.5s;
 	zoom: 1.1;
-}
+} */
 .fa fa-github:hover {
 	box-shadow: inset;
 	box-shadow: #40649a;
@@ -70,6 +86,7 @@ h1 {
 	display: flex;
 	justify-content: center;
 }
+
 #About {
 	padding-top: 250px;
 	background-color: #00296b;
@@ -150,15 +167,15 @@ h3 {
 .cert {
 	padding-top: 50px;
 	background-color: #00296b;
-	padding-bottom: 100px;
+	padding-bottom: 150px;
 }
-#Contact {
+/* #Contact {
 	display: flex;
 	justify-content: center;
 	padding-top: 80px;
 	background-color: #00296b;
-	/* border: 3px solid #154ca0; */
-}
+	border: 3px solid #154ca0;
+} */
 label {
 	font-size: 20px;
 }
@@ -190,13 +207,17 @@ label {
 	margin-bottom: 10px;
 }
 #cntct {
-	margin: 0px 40px;
+	/* margin: 0px 40px; */
 	border: 3px;
 	background-color: #1565c0;
 	border-radius: 25px;
 	height: fit-content;
 	width: fit-content;
 	padding: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
 }
 #msg {
 	background-color: #9f99e8;
@@ -221,4 +242,13 @@ label {
 	width: 850px;
 	font-weight: bold;
 	font-size: 20px;
+}
+#Contact {
+	background-color: #00296b;
+	display: block;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-right: auto;
+	padding-top: 200px;
+	padding-bottom: 200px;
 }
