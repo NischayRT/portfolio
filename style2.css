@@ -198,7 +198,7 @@ label {
 #mail {
 	background-color: #9f99e8;
 	width: max-content;
-	border-radius: 20px;
+	border-radius: 10px;
 	border: 3px solid #3c72c4;
 	border-radius: 35px;
 	text-align: left;
@@ -222,7 +222,7 @@ label {
 #msg {
 	background-color: #9f99e8;
 	width: max-content;
-	border-radius: 20px;
+	border-radius: 10px;
 	border: 3px solid #3c72c4;
 	border-radius: 35px;
 	text-align: left;
@@ -234,7 +234,7 @@ label {
 	color: #ffffff;
 	background-color: #9f99e8;
 	max-width: max-content;
-	border-radius: 20px;
+	border-radius: 10px;
 	border: 3px solid #3c72c4;
 	border-radius: 35px;
 	text-align: center;
