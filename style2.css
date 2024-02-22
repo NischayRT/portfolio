@@ -197,9 +197,9 @@ label {
 #mail {
 	background-color: #9f99e8;
 	width: max-content;
-	border-radius: 10px;
+	border-radius: 8px;
 	border: 3px solid #3c72c4;
-	border-radius: 12px;
+	border-radius: 8px;
 	text-align: left;
 	height: 40px;
 	width: 850px;
@@ -209,7 +209,7 @@ label {
 	/* margin: 0px 40px; */
 	border: 3px;
 	background-color: #1565c0;
-	border-radius: 12px;
+	border-radius: 8px;
 	height: fit-content;
 	width: fit-content;
 	padding: 30px;
@@ -222,7 +222,7 @@ label {
 	background-color: #9f99e8;
 	width: max-content;
 	border: 3px solid #3c72c4;
-	border-radius: 12px;
+	border-radius: 8px;
 	text-align: left;
 	height: 40px;
 	width: 850px;
@@ -232,9 +232,9 @@ label {
 	color: #ffffff;
 	background-color: #9f99e8;
 	max-width: max-content;
-	border-radius: 10px;
+	border-radius: 8px;
 	border: 3px solid #3c72c4;
-	border-radius: 12px;
+	border-radius: 8px;
 	text-align: center;
 	height: 40px;
 	width: 850px;
