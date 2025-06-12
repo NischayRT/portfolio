@@ -3,6 +3,9 @@ body {
 	margin: 0px;
 	color: #ffffff;
 }
+span{
+	font-weight: bold;
+}
 .topnav {
 	display: flex;
 	justify-content: space-around;
